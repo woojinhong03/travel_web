@@ -59,7 +59,15 @@
     font-weight: lighter;
   }
 
-    .seoul img{ 
+  #imgCss img{
+    filter: invert(40%);
+    width: 30px;
+    height: 30px;
+    position:fixed;
+    top: 15px;
+  }
+
+  /*  .seoul img{ 
     filter: invert(40%);
     width: 30px;
     height: 30px;
@@ -139,10 +147,9 @@
     top: 14px;
     left: 1150px;
   }
+  */
 
-  .seoul img:hover, .eiffel img:hover, .man img:hover, 
-  .bigben img:hover, .god img:hover, .freedom img:hover, 
-  .colo img:hover, .taj img:hover, .Pyramid img:hover {
+  .imgs img:hover{
     filter: invert(80%);
   }
 
