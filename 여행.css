@@ -67,6 +67,10 @@
     top: 15px;
   }
 
+  .bigLogo:hover{
+    text-shadow: 3px 3px 2px rgb(87,87,87);
+  }
+
   #imgCss img:hover{
     filter: invert(80%);
   }
