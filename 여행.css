@@ -67,91 +67,10 @@
     top: 15px;
   }
 
-  /*  .seoul img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 15px;
-    left: 350px;
-  }
-
-  .eiffel img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 14px;
-    left: 450px;
-  }
-
-  .man img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 14px;
-    left: 550px;
-  }
-
-  .bigben img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 14px;
-    left: 650px;
-  }
-
-  .god img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 14px;
-    left: 750px;
-  }
-
-  .freedom img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 14px;
-    left: 850px;
-  }
-
-  .colo img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 14px;
-    left: 950px;
-  }
-
-  .taj img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 14px;
-    left: 1050px;
-  }
-  
-  .Pyramid img{ 
-    filter: invert(40%);
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    top: 14px;
-    left: 1150px;
-  }
-  */
-  .imgs img:hover{
+  #imgCss img:hover{
     filter: invert(80%);
   }
-
+  
   li {
     list-style: none;
   }
