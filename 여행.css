@@ -112,7 +112,7 @@
       position:absolute;
       z-index: 2;
       background-color: rgb(255, 255, 255);
-      margin-top: 1000px;
+      margin-top: 1200px;
       margin-left: 200px;
       margin-right: 200px;
       margin-bottom: 500px;
@@ -126,7 +126,7 @@
     position:absolute;
     z-index: 2;
     background-color: rgb(255, 255, 255);
-    margin-top: 3000px;
+    margin-top: 3200px;
     margin-left: 200px;
     margin-right: 200px;
     margin-bottom: 500px;
@@ -134,4 +134,15 @@
     height: 500px;
     border-radius: 10px;
     box-shadow: 30px 30px 3px rgba(0, 0, 0, 0.527);
+}
+
+.song{
+  border-radius: 39px;
+  position:absolute;
+  z-index: 2;
+  margin-left: 77.2%;
+  margin-top: 1176px;
+  height: 25px;
+  width: 250px;
+  box-shadow: 30px 30px 3px rgba(0, 0, 0, 0.527);
 }
