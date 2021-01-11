@@ -4,7 +4,7 @@ window.onload = function() {
     
     iconList[0].style.marginLeft = '20%';
     
-    for(var i = 1; i < iconList.length; i++){
+    for(var i = 1; i < iconList.length; i++) {
         iconList[i].style.marginLeft = '6%';
     }
 
